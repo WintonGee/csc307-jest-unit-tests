@@ -1,7 +1,6 @@
 function sum(a, b) {
   return a + b;
 }
-exports.sum = sum;
 
 function div (a, b){
   return a / b;
